@@ -8,3 +8,8 @@ LICENSE
 .gitignore
 .npmignore
 commitlint.config.js
+**/node_modules
+README.md
+package.json
+package-lock.json
+docker-compose.dev.yml
